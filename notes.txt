@@ -1,0 +1,2 @@
+Emergency Vehicles images and files are taken from 
+https://www.kaggle.com/datasets/abhisheksinghblr/emergency-vehicles-identification
